@@ -1,16 +1,14 @@
-# Scoreme-Assignment
 Flask PDF to Excel Converter
-**Overview**
-
+Overview
 This is a Flask-based web application that allows users to upload a PDF file and converts it into an Excel file while preserving the original structure and layout. The app uses PyMuPDF (fitz) for extracting text and openpyxl for generating Excel files.
 
-**Features**
+Features
 ✅ Upload a PDF file
 ✅ Extract text while maintaining the format
 ✅ Export structured data to an Excel file
 ✅ Download the converted file
 
-**Installation**
+Installation
 Clone the repository:
 sh
 Copy
