@@ -15,7 +15,7 @@ Follow these simple steps to set up and run the project on your local machine:
 sh
 Copy
 Edit
-git clone https://github.com/your-repo/pdf-to-excel-flask.git
+git clone (https://github.com/HardikTIET/Scoreme-Assignment).git
 cd pdf-to-excel-flask
 2️⃣ Create a Virtual Environment
 sh
